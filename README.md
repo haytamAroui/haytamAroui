@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Doker, Supabase, AWS**
+ 🌱 I’m currently learning **Doker, Rust, AWS**
 
 💬 Ask me about **JAVA, Spring, AngularJS... or anything.**
 
