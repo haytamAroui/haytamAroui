@@ -72,7 +72,7 @@
 <br/>
 
 <div align="center">
-<a href='https://haytamaroui.com target='_blank'><img height='64' style='border:0px;height:64px;' src='https://designerapp.officeapps.live.com/designerapp/Media.ashx/?id=fa9ef899-45d0-4e4c-b45a-1a407c58d616.zip&fileToken=d3cbb15c-ad96-4211-b7a4-14c6068ae62d&dcHint=WestEurope' border='0' alt='Haytamaroui.com /></a>
+<a href='https://haytamaroui.com target='_blank'><img height='64' style='border:0px;height:64px;' src='https://drive.google.com/file/d/1l46McdY2LQouozUIH-K1f4q8d5nyCmj2/view?usp=drive_link' border='0' alt='Haytamaroui.com /></a>
 </div>
 
 <br/>
