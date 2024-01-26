@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haytam+Aroui!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from Belguim</h3>
 
 <br/>
 
@@ -71,9 +71,7 @@
 
 <br/>
 
-<div align="center">
+<h3 align="center">Haytam.aroui.com</h3>
 
-                                                     <h2>🐍 HaytamAroui.com 🐍</h2>
-</div>
 
 <br/>
