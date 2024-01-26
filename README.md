@@ -72,7 +72,8 @@
 <br/>
 
 <div align="center">
-<a href='https://haytamaroui.com target='_blank'><img height='64' style='border:0px;height:64px;' src='https://drive.google.com/file/d/1l46McdY2LQouozUIH-K1f4q8d5nyCmj2/view?usp=drive_link' border='0' alt='Haytamaroui.com /></a>
+
+                                                     <h2>🐍 HaytamAroui.com 🐍</h2>
 </div>
 
 <br/>
