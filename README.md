@@ -57,7 +57,9 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- 
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=haytamaroui&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 </div>
@@ -69,7 +71,7 @@
 <br/>
 
 <div align="center">
-<a href='https://haytamaroui.com target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://haytamaroui.com target='_blank'><img height='64' style='border:0px;height:64px;' src='https://designerapp.officeapps.live.com/designerapp/Media.ashx/?id=fa9ef899-45d0-4e4c-b45a-1a407c58d616.zip&fileToken=d3cbb15c-ad96-4211-b7a4-14c6068ae62d&dcHint=WestEurope' border='0' alt='Haytamaroui.com /></a>
 </div>
 
 <br/>
