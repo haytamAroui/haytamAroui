@@ -74,6 +74,9 @@
 <div align="center"> 
   <a href="https://haytamaroui.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+      </a>
+  <a href="https://haytamaroui.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-%23000B25.svg?style=for-the-badge&logo=Portfolio&logoColor=00A4DC" target="_blank" />
   </a>
 
 </div>
