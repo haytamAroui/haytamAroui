@@ -5,12 +5,12 @@
 ## <p align="center">A passionate software developer from Belgium</p>
 
 ---
-
+<p align="center">
 🔭 I’m currently working on **a marketplace**  
 🌱 I’m currently learning **Docker, Rust, AWS**  
 💬 Ask me about **JAVA, Spring, AngularJS... or anything.**  
 ⚡ Fun fact: **“Harry Potter’s glasses were purchased from a thrift store.”**
-
+</p>
 ---
 
 <p align="center">
